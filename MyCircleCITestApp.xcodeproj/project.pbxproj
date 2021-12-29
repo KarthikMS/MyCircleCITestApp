@@ -16,6 +16,7 @@
 		E3E6D51F277B7120003CA66E /* MyCircleCITestAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3E6D51E277B7120003CA66E /* MyCircleCITestAppTests.swift */; };
 		E3E6D529277B7120003CA66E /* MyCircleCITestAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3E6D528277B7120003CA66E /* MyCircleCITestAppUITests.swift */; };
 		E3E6D52B277B7120003CA66E /* MyCircleCITestAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3E6D52A277B7120003CA66E /* MyCircleCITestAppUITestsLaunchTests.swift */; };
+		E3E6D538277C87EE003CA66E /* Math.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3E6D537277C87EE003CA66E /* Math.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E3E6D524277B7120003CA66E /* MyCircleCITestAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyCircleCITestAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3E6D528277B7120003CA66E /* MyCircleCITestAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCircleCITestAppUITests.swift; sourceTree = "<group>"; };
 		E3E6D52A277B7120003CA66E /* MyCircleCITestAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCircleCITestAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E3E6D537277C87EE003CA66E /* Math.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Math.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				E3E6D507277B711F003CA66E /* AppDelegate.swift */,
 				E3E6D509277B711F003CA66E /* SceneDelegate.swift */,
 				E3E6D50B277B711F003CA66E /* ViewController.swift */,
+				E3E6D537277C87EE003CA66E /* Math.swift */,
 				E3E6D50D277B711F003CA66E /* Main.storyboard */,
 				E3E6D510277B7120003CA66E /* Assets.xcassets */,
 				E3E6D512277B7120003CA66E /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				E3E6D50C277B711F003CA66E /* ViewController.swift in Sources */,
 				E3E6D508277B711F003CA66E /* AppDelegate.swift in Sources */,
 				E3E6D50A277B711F003CA66E /* SceneDelegate.swift in Sources */,
+				E3E6D538277C87EE003CA66E /* Math.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
